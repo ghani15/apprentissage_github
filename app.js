@@ -1,1 +1,2 @@
-console.lo
+console.log('Hello')
+// to do later
